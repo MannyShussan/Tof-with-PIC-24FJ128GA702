@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/Software.X_-_C_pia.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>16384</length>
+      <used>110</used>
+      <free>16274</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>134400</length>
+      <used>54495</used>
+      <free>79905</free>
+    </memory>
+  </executable>
+</project>
