@@ -56,7 +56,6 @@ To work with this project, you will need:
 - **src/**: Contains the source code files.
 - **include/**: Header files for the project.
 - **docs/**: Documentation files (e.g., circuit diagrams and explanations).
-- **examples/**: Example configurations and test cases.
 
 ## Contributing
 
